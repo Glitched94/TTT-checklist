@@ -5,5 +5,5 @@ A checklist of things you might want to get from TTT
 # Checkout
 
 ```
-git checkout JamesDowney/TTT-checklist release
+git checkout Glitched94/TTT-checklist release
 ```
