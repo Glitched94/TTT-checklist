@@ -1,7 +1,7 @@
 import { getLocketMonsters, getMonsters, monsterFactoidsAvailable, print } from "kolmafia";
 import { $locations } from "libram";
 
-const timeTwitchingLocations = $locations`The Cave Before Time, An Illicit Bohemian Party, Moonshiners' Woods, The Roman Forum, The Post-Mall, The Spooky Old Abandoned Mine, The Rowdy Saloon, Globe Theatre Main Stage, Globe Theatre Backstage, KoL Con Clan Party House, 12 West Main`;
+const timeTwitchingLocations = $locations`The Cave Before Time, An Illicit Bohemian Party, Moonshiners' Woods, The Roman Forum, The Post-Mall, The Spooky Old Abandoned Mine, The Rowdy Saloon, Globe Theatre Main Stage, Globe Theatre Backstage, KoL Con Clan Party House, 12 West Main, Spring Bros. Solenoids, Boltsmann Bearings`;
 const locketMonsters = getLocketMonsters();
 
 export default function main(): void {
